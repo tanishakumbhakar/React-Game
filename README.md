@@ -1,3 +1,23 @@
+## A simple game in React
+This is a very simple game in which the user has to guess the correct sum of the two random numbers given in question.
+
+This project was built while learning React.
+
+## Tech/framework used
+
+<b>Built with</b>
+- React
+- HTML
+- CSS
+
+## Features
+- A question is displayed with 2 random numbers.
+- User has to give the correct answer.
+- An animated message is displayed for both right as well as wrong answers.
+- User can play the game again on clicking the Play Again button
+
+## Installation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
